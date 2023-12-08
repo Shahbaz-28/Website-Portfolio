@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <div>
-        <nav className='navbar'>
+        <nav className='navbar'style={{ position: 'fixed', top: 0, width: '100%', zIndex: 100 }} >
           <img src={logo} alt='Logo' className='logo'/>
           <div className='desktopMenu'>
            <Link activeClass='active' to='intro' spy={true} smooth={true} offset={-150} duration={500} className='desktopMenuListItem'>Home</Link>
