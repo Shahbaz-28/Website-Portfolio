@@ -1,6 +1,9 @@
 import Navbar from "./components/Navbar";
 import Intro from "./components/intro/Intro";
 import Skill from "./components/Skills/MySkill"
+import Work from "./components/Works/Work";
+import Contacts from "./components/Contect/Contacts";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -8,6 +11,9 @@ function App() {
        <Navbar/>
        <Intro/>
        <Skill/>
+       <Work/>
+       <Contacts/>
+       <Footer/>
     </div>
   );
 }

@@ -60,7 +60,7 @@
 @media screen and (max-width:840px) 
 {
    .bg{
-    right: -10vw;
+    right: -14vw;
    }  
    .introContent{
      font-size: 10vw;
@@ -73,6 +73,6 @@
 @media screen and (max-width:480px) 
 {
    .bg{
-    left: -20vw;
+    left: -45vw;
    }  
 }

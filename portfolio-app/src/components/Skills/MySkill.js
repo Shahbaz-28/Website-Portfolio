@@ -11,7 +11,7 @@ const Skill = () => {
     <>
         <section id='skills'>
         <span className='skillTitle'>What I Do</span>
-        <span className='skillDesc'>In this code, the multi function has been converted into an arrow function, and the logic remains the same.In this code, the multi function has been converted into an arrow function, and the logic remains the same</span>
+        <span className='skillDesc'>I am a skilled and passionate web designer with experience creating visually appealing and user-friendly websites. I have a strong understanding of design and a keen eye of detail. Iam prficient in HTML, CSS, and Javascript, as well as design software such as Adobe Photoshop and Illustrator.</span>
         <div className='skillBars'>
            
            <div className='skillBar'>
